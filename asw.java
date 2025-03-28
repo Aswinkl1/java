@@ -1,7 +1,5 @@
-public class asw {
-    public static void main(String ar[]) {
-        as a=new as(); 
-        
-    }
-    
-}
+class aswin{
+    public static void main(String[] args) {
+        System.out.println("kjhdkhghDG");
+t    }
+}                
